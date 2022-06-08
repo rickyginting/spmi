@@ -1,61 +1,25 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+## Smart Sistem Penjamin Mutu Internal
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+Smart SPMI merupakan aplikasi berbasis web yang dikembangkan dengan Frameworks Laravel 7, aplikasi ini dikembangkan untuk kampus STMIK Pelita Nusantara. Dengan aplikasi ini pengguna dapat menyimpan berkas akreditasi dengan lebih mudah untuk semua program studi. Dan akan menampilkan simulasi perhitungan nilai asessmen dan syarat terakreditas
 
-## About Laravel
+Ada pun beberapa kompunen yang digunakan dalam pengembangan ini
+- [Template SB Admin 2]([https://laravel.com/docs/routing](https://startbootstrap.com/theme/sb-admin-2)).
+- [Select 2]([https://laravel.com/docs/container](https://select2.org/)).
+- [Chart Js]([https://www.chartjs.org/])
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Dengan aplikasi ini diharapkan dapat mempermudah pihak kampus dalam menangani permasalahan mutu pendidikan yang terjadi.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Screenshot Program
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![Screenshot (44)](https://user-images.githubusercontent.com/46182403/172576326-6173e230-b04d-46d7-9ce5-51f415efa03b.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/46182403/172576438-ea345bdc-4a0a-4d2f-bc53-483d703f22ff.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/46182403/172576459-ce4f46b0-0dfd-4a7f-9634-cbb1049723f3.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/46182403/172576475-dba833d7-b4cd-484b-a072-915c20204821.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/46182403/172576496-dc80e2f9-a787-4a0f-8fe3-b980fd374262.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/46182403/172576515-3e875c77-08b8-4c63-ba69-f8f16315801c.png)
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Kontribusi
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Terimakasih untuk kamu yang ingin berkontribusi dalam pengembangan dan penggunaan aplikasi ini, kamu dapat menyalurkan dana yang kamu inginkan melalui [rekening bank kami]([https://laravel.com/docs/contributions](https://rickyginting.github.io/)). Atau kamu dapat berteman dengan saya melalui Instagram [@rickyginting_]([https://instagram.com/rickyginting_])
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
