@@ -3,9 +3,9 @@
 Smart SPMI merupakan aplikasi berbasis web yang dikembangkan dengan Frameworks Laravel 7, aplikasi ini dikembangkan untuk kampus STMIK Pelita Nusantara. Dengan aplikasi ini pengguna dapat menyimpan berkas akreditasi dengan lebih mudah untuk semua program studi. Dan akan menampilkan simulasi perhitungan nilai asessmen dan syarat terakreditas
 
 Ada pun beberapa kompunen yang digunakan dalam pengembangan ini
-- [Template SB Admin 2]([https://startbootstrap.com/theme/sb-admin-2]).
-- [Select 2]([https://select2.org/]).
-- [Chart Js]([https://www.chartjs.org/])
+- [Template SB Admin 2](https://startbootstrap.com/theme/sb-admin-2).
+- [Select 2](https://select2.org/).
+- [Chart Js](https://www.chartjs.org/)
 
 Dengan aplikasi ini diharapkan dapat mempermudah pihak kampus dalam menangani permasalahan mutu pendidikan yang terjadi.
 
@@ -21,5 +21,5 @@ Dengan aplikasi ini diharapkan dapat mempermudah pihak kampus dalam menangani pe
 
 ## Kontribusi
 
-Terimakasih untuk kamu yang ingin berkontribusi dalam pengembangan dan penggunaan aplikasi ini, kamu dapat menyalurkan dana yang kamu inginkan melalui [rekening bank kami]([https://laravel.com/docs/contributions](https://rickyginting.github.io/)). Atau kamu dapat berteman dengan saya melalui Instagram [@rickyginting_]([https://instagram.com/rickyginting_])
+Terimakasih untuk kamu yang ingin berkontribusi dalam pengembangan dan penggunaan aplikasi ini, kamu dapat menyalurkan dana yang kamu inginkan melalui [rekening bank kami](https://rickyginting.github.io/). Atau kamu dapat berteman dengan saya melalui Instagram [@rickyginting_](https://instagram.com/rickyginting_)
 
